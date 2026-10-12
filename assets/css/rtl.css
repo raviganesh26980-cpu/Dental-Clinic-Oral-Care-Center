@@ -1,0 +1,3 @@
+/* RTL overrides (dir="rtl" on <html>) — logical properties handle most layout */
+[dir=rtl]{font-family:'Noto Sans Arabic','Noto Sans Hebrew',var(--body)}
+[dir=rtl] .field-error{text-align:right}

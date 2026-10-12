@@ -1,0 +1,4 @@
+/* Dark theme overrides (set via data-theme="dark" on <html>) */
+[data-theme=dark]{--bg:#0e1a19;--surface:#15282a;--text:#e8f2ef;--muted:#a3bbb6;--border:#2b4543;--mint:#183432;--primary:#8fd5c7;--primary-2:#a9e3d7}
+[data-theme=dark] .site-footer{background:#0a1312}
+[data-theme=dark] .logo,[data-theme=dark] .btn.ghost{color:var(--primary)}
